@@ -1,0 +1,10 @@
+/vendor/
+
+# Laravel
+public/storage
+
+storage/*.key
+.env
+.phpunit.result.cache
+
+/docker/db
